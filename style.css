@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    font-family: Times New Roman;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .text{
+    text-align: center;
+  }
+
+  .semua{
+    text-align: center;
+    display: flex;
+  }
+
+  .hkiri{
+    text-align: left;
+   
+  }
+  .ujung{
+    display: flex;
+    text-align: center;
+   
+  }
+  .tengah{
+    padding: 25px;
+  }
